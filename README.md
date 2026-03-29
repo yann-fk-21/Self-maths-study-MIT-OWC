@@ -6,7 +6,7 @@ Repository containing notes, exercises and resources for MIT mathematics courses
 
 | Week | Topic | Status |
 |------|-------|--------|
-| 1 | Solving Ax = b for square systems by elimination (pivots, multipliers, back substitution, invertibility of A, factorization into A = LU) | In progress |
+| 1 | Solving Ax = b for square systems by elimination (pivots, multipliers, back substitution, invertibility of A, factorization into A = LU) | <span style="color:blue;">In progress</span> |
 | 2 | Complete solution to Ax = b (column space containing b, rank of A, nullspace of A and special solutions to Ax = 0 from row reduced R) | Not started |
 | 3 | Basis and dimension (bases for the four fundamental subspaces) | Not started |
 | 4 | Least squares solutions (closest line by understanding projections) | Not started |
@@ -43,7 +43,7 @@ Repository containing notes, exercises and resources for MIT mathematics courses
 
 | Week | Topic | Status |
 |------|-------|--------|
-| 1 | Mathematical Fundamentals: Convex sets, cones, and operations preserving convexity | In progress |
+| 1 | Mathematical Fundamentals: Convex sets, cones, and operations preserving convexity | <span style="color:blue;">In progress</span> |
 | 2 | Convex Functions: Properties, quasiconvex, and log-convex functions | Not started |
 | 3 | Optimization Problems: Formulating linear, quadratic, and semidefinite programs | Not started |
 | 4 | Theoretical Framework: Optimality conditions and duality theory | Not started |
