@@ -32,7 +32,7 @@ Repository containing notes, exercises and resources for MIT mathematics courses
 
 | Week | Topic | Status |
 |------|-------|--------|
-| 1 | Probability Foundations (combinatorics, probability models, random variables) | Not started |
+| 1 | Probability Foundations (combinatorics, probability models, random variables) | *In progress* |
 | 2 | Discrete and Continuous Probability Distributions | Not started |
 | 3 | Bayesian Inference and Statistical Estimation | Not started |
 | 4 | Frequentist Inference (hypothesis testing, confidence intervals) | Not started |
