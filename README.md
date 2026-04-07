@@ -1,7 +1,7 @@
-# Self-maths-study-MIT-OWC
+# Self-maths-study-MIT-OCW
 Repository containing notes, exercises and resources for MIT mathematics courses (Algebra, Calculus, Statistics, Probability, Optimization)
 
-## 18.06 Linear Algebra -- MIT OWC
+## 18.06 Linear Algebra -- MIT OCW
  This MIT OpenCourseWare linear algebra course is taught by Professor Gilbert Strang and covers topics including: systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.
 
 | Week | Topic | Status |
@@ -17,7 +17,7 @@ Repository containing notes, exercises and resources for MIT mathematics courses
 | 9 | Linear transformations and change of basis (connected to the Singular Value Decomposition - orthonormal bases that diagonalize A) | Not started |
 | 10 | Linear algebra in engineering (graphs and networks, Markov matrices, Fourier matrix, Fast Fourier Transform, linear programming) | Not started |
  
-## 18.02SC Multivariable Calculus -- MIT OWC
+## 18.02SC Multivariable Calculus -- MIT OCW
  This MIT OpenCourseWare multivariable calculus course covers the calculus of functions of several variables, including vectors and matrices, partial derivatives, double and triple integrals, and vector calculus in 2 and 3-space.
 
 | Week | Topic | Status |
@@ -27,7 +27,7 @@ Repository containing notes, exercises and resources for MIT mathematics courses
 | 3 | Double Integrals, Vector Fields, Line Integrals, and Green's Theorem | Not started |
 | 4 | Triple Integrals, Surface Integrals, Flux, Divergence Theorem, and Stokes' Theorem | Not started |
 
-## 18.05 Introduction to Probability and Statistics -- MIT OWC
+## 18.05 Introduction to Probability and Statistics -- MIT OCW
  This MIT OpenCourseWare probability and statistics course provides an elementary introduction to probability and statistics with applications, including probability foundations, distributions, statistical inference, and regression.
 
 | Week | Topic | Status |
@@ -38,7 +38,7 @@ Repository containing notes, exercises and resources for MIT mathematics courses
 | 4 | Frequentist Inference (hypothesis testing, confidence intervals) | Not started |
 | 5 | Linear Regression and Applications | Not started |
 
-## 6.079 Introduction to Convex Optimization -- MIT OWC
+## 6.079 Introduction to Convex Optimization -- MIT OCW
  This MIT OpenCourseWare convex optimization course focuses on the theory, modeling, and applications of convex optimization, including convex sets and functions, duality, and numerical algorithms.
 
 | Week | Topic | Status |
